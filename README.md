@@ -30,14 +30,14 @@ Se ejecuta el comando
 mvn test
 ```
 
-## Built With
+## Hecho con
 
 * Java
 * Git
 * Maven
 * HTML, JavaScript
 
-## Authors
+## Autor
 
 * **Juan Carlos Acosta**
 
